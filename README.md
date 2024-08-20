@@ -12,12 +12,19 @@ If there are such strict laws in place, how and who are running a majority of Ai
 I set out to answer the following questions:
 
 Which neighborhood has the least expensive Airbnb?
+
 Which neighborhood has the most expensive Airbnb?
+
 What neighborhoods are the Airbnbs located in?
+
 Which hosts have the most total listings?
+
 How many hosts have more than 1 Airbnb listing?
+
 What is the average availability based on the number of hosts' listings?
+
 How many hosts have licenses and how many don't?
+
 I decided to clean, explore, and visualize the data completely in JupyterLab. To further see my exploration please read through my Airbnb_Berlin.ipynd file.
 
 I have also included my presentation of the data and view point though my Airbnb_hosting_Berlin_final.pptx.
